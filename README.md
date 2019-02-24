@@ -16,6 +16,7 @@
   - 聚类（clustering）
 * 半监督学习（Semi-Supervised Learning）
 * 强化学习（Reinforcement Learning）
+* 推荐系统（Recommendation System）
 * 学习理论（Learning Theory）
 
 ### 回归
