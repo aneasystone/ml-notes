@@ -2,22 +2,10 @@
 
 我的机器学习笔记
 
-### 机器学习定义
+### 概述
 
-* 非正式定义：在不直接针对问题进行编程的情况下，赋予计算机学习能力的一个研究领域。（1959年，出自 Arthur Samuel，他被誉为**机器学习之父**）
-* 正式定义：对于一个计算机程序来讲，给他一个任务 T 和一个性能测量方法 P，如果在经验 E 的影响下 P 对 T 的测量结果得到了改进，那么就说该程序从 E 中得到了学习。（1998年，出自 Tom Mitchell《Machine Leaming》）
-
-### 机器学习分类
-
-* 监督学习（Supervised Learning）
-  - 回归（regression）
-  - 分类（classification）
-* 无监督学习（Unsupervised Learning）
-  - 聚类（clustering）
-* 半监督学习（Semi-Supervised Learning）
-* 强化学习（Reinforcement Learning）
-* 推荐系统（Recommendation System）
-* 学习理论（Learning Theory）
+* [01. 什么是机器学习](概述/01.%20什么是机器学习.ipynb)
+* [02. 机器学习分类](概述/02.%20机器学习分类.ipynb)
 
 ### 回归
 
